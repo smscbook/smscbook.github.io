@@ -7,4 +7,4 @@ atitle: Stochastic Methods in Scientific Computing
 subtitle: From Foundations to Advanced Techniques
 ---
 
-![Alt text](_figures/smscbookcover.jpg "a title")(https://www.routledge.com/Stochastic-Methods-in-Scientific-Computing-From-Foundations-to-Advanced-Techniques/DElia-Langfeld-Lucini/p/book/9781498796330)
+![Alt text](figures/smscbookcover.jpg "a title")(https://www.routledge.com/Stochastic-Methods-in-Scientific-Computing-From-Foundations-to-Advanced-Techniques/DElia-Langfeld-Lucini/p/book/9781498796330)
