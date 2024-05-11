@@ -4,10 +4,13 @@ layout: default
 
 <div class="home">
   {%- if page.title -%}
-    <h0 class="page-heading">{{ page.title }}</h0>
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+  {%- if page.atitle -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
   {%- if page.subtitle -%}
-    <h1 class="page-subheading">{{ page.subtitle }}</h1>
+    <h2 class="page-subheading">{{ page.subtitle }}</h2>
   {%- endif -%}
 
   {{ content }}
