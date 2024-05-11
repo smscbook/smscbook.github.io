@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+page.title: Stochastic Methods in Scientific Computing
+page.subtitle: From Foundations to Advanced Techniques
