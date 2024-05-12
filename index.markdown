@@ -9,9 +9,10 @@ subtitle: From Foundations to Advanced Techniques
 
 ![Alt text](figures/smscbookcover.jpg)
 
-- ### [The book](#Thebook)
-- ### [Purpose of this site](#Purpose)
-- ### [Table of Contents](#TOC)
+- #### [The book](#Thebook)
+- #### [Purpose of this site](#Purpose)
+- #### [Table of Contents](#TOC)
+<br>
 
 <br>
 ## **The book** {#Thebook}
