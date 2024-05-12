@@ -7,10 +7,20 @@ atitle: Stochastic Methods in Scientific Computing
 subtitle: From Foundations to Advanced Techniques
 ---
 
-![Alt text](figures/smscbookcover.jpg "a title")(https://www.routledge.com/Stochastic-Methods-in-Scientific-Computing-From-Foundations-to-Advanced-Techniques/DElia-Langfeld-Lucini/p/book/9781498796330)
+![Alt text](figures/smscbookcover.jpg)
+
+
+
+<br>
+## *The book*
+
+<br>
+## *Purpose of this site*
+We have published this site as a companion resource to the SMSC book. Here we provide links to supplementary material such as code for the examples discussed in the book and solutions of the exercises proposed to the reader. This material will build over time, and we aim to updating regularly these pages as new resources become available. Additionally, we report here instructions on how to provide feedback and report issues with the material published in the book.  
 
 <br>
 ## **Table of Contents**
+The table of contents of SMSC is as follows:
 1. **Random Numbers.** 1.1. Random numbers and probability distribution. 1.2. Central limit theorem. 1.3. Beyond the Normal distribution. 1.4. Exercises.
 2. **Random walks.** 2.1. Random walk as a Markov process. 2.2. Random walks in 1 and 2 dimensions. 2.3. Levy flight. 2.4. Random walks with potentials. 2.5. Exercises.
 3. **Monte Carlo methods.** 3.1. Objectives and concepts. 3.2. Monte-Carlo integration. 3.3. Markov Chain Monte-Carlo. 3.4. Advanced Error Analysis Techniques. 3.5. Error estimate in the presence of autocorrelation. 3.6. Error estimate for non-trivial estimators: The Jackknife, and the Bootstrap. 3.7. Biased Estimators. 3.8. Exercises.
