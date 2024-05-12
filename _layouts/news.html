@@ -5,7 +5,7 @@ layout: default
 <div class="news">
   
   {%- if site.posts.size > 0 -%}
-  <h2 class="post-list-heading">{{ page.list_title | default: "News" }}</h2>
+  <h1 class="post-list-heading">{{ page.list_title | default: "News" }}</h1>
   <ul class="post-list">
     {%- for post in site.posts -%}
     <li>
