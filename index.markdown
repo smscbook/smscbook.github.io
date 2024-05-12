@@ -7,9 +7,7 @@ atitle: Stochastic Methods in Scientific Computing
 subtitle: From Foundations to Advanced Techniques
 ---
 
-<div style="text-align:center">
-  <img-src="figures/smscbookcover.jpg">
-</div>
+![alt text](figures/smscbookcover.jpg)
 
 - #### [The book](#Thebook)
 - #### [Purpose of this site](#Purpose)
