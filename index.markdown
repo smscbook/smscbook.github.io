@@ -12,10 +12,10 @@ subtitle: From Foundations to Advanced Techniques
 
 
 <br>
-## *The book*
+## **The book**
 
 <br>
-## *Purpose of this site*
+## **Purpose of this site**
 We have published this site as a companion resource to the SMSC book. Here we provide links to supplementary material such as code for the examples discussed in the book and solutions of the exercises proposed to the reader. This material will build over time, and we aim to updating regularly these pages as new resources become available. Additionally, we report here instructions on how to provide feedback and report issues with the material published in the book.  
 
 <br>
