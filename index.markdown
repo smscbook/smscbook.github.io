@@ -12,14 +12,14 @@ subtitle: From Foundations to Advanced Techniques
 
 
 <br>
-## **The book**
+## **The book** {#Thebook}
 
 <br>
-## **Purpose of this site**
+## **Purpose of this site** {#Purpose}
 We have published this site as a companion resource to the SMSC book. Here we provide links to supplementary material such as code for the examples discussed in the book and solutions of the exercises proposed to the reader. This material will build over time, and we aim to updating regularly these pages as new resources become available. Additionally, we report here instructions on how to provide feedback and report issues with the material published in the book.  
 
 <br>
-## **Table of Contents**
+## **Table of Contents** {#TOC}
 The table of contents of SMSC is as follows:
 1. **Random Numbers.** 1.1. Random numbers and probability distribution. 1.2. Central limit theorem. 1.3. Beyond the Normal distribution. 1.4. Exercises.
 2. **Random walks.** 2.1. Random walk as a Markov process. 2.2. Random walks in 1 and 2 dimensions. 2.3. Levy flight. 2.4. Random walks with potentials. 2.5. Exercises.
