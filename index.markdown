@@ -12,10 +12,17 @@ subtitle: From Foundations to Advanced Techniques
 - #### [The book](#Thebook)
 - #### [Purpose of this site](#Purpose)
 - #### [Table of Contents](#TOC)
+- #### [Exercises](#EXERCISE)
+- #### [Report an issue](#ISSUES)
 <br>
 
 <br>
 ## **The book** {#Thebook}
+Edited by the Taylor & Francis Group (see [here](https://www.routledge.com/Stochastic-Methods-in-Scientific-Computing-From-Foundations-to-Advanced-Techniques/DElia-Langfeld-Lucini/p/book/9781498796330) for the official material from the publisher), *Stochastic Methods in Advanced Computing - From Foundations to Advanced Techniques* provides a fresh approach to computational probability and stochastic modelling, covering the basics of the subject with applications to topics in finance, physics and biosciences, and more specialised discussions on Statistical Mechanics, Monte Carlo Methods and Lattice Field Theory. In particular, the latter is treated using a Statostical Mechanics perspective, and does not require knowledge of Quantum Field Theory. The last chapter provides an overview of recent advances at the interface between Machine Learning and Statistical Mechanics. The book has three intended audiences:
+- An undergraduate or non-specialistic audience looking for an introduction to computational probability and stochastic modelling;
+- A postgraduate or more specialised audience seeking to deepen their knowledge of the subject;
+- An expert audience aiming to broaden their perspective on the most advanced material.
+The book is self-contained. Excercises are provided to stimulate the reader to reflect on the learned material. 
 
 <br>
 ## **Purpose of this site** {#Purpose}
@@ -33,3 +40,6 @@ The table of contents of SMSC is as follows:
 7. **Current challenges in Monte-Carlo Simulations.** 7.1. Sign and overlap problems. 7.2. Introduction to overlap problems. 7.3. Estimating probability density functions.
 8. **Data Analytics and Statistical Systems.** 8.1. Model regression - L2 norm. 8.2. Gaussian Process. 8.3. Machine learning with graphs. 8.4. Emulation of statistical systems with Machine Learning. 8.5. Categorisation in statistical physics: Naive Bayes. 8.6. Machine learning classification of phase transitions.
 
+## **Exercises** {#EXERCISE}
+
+## **Report an issue** {#ISSUES}
