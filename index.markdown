@@ -14,7 +14,6 @@ subtitle: From Foundations to Advanced Techniques
 - #### [Table of Contents](#TOC)
 - #### [Exercises](#EXERCISE)
 - #### [Report an issue](#ISSUES)
-<br>
 
 <br>
 ## **The book** {#Thebook}
