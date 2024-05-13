@@ -18,10 +18,11 @@ subtitle: From Foundations to Advanced Techniques
 
 <br>
 ## **The book** {#Thebook}
-Edited by the Taylor & Francis Group (see [here](https://www.routledge.com/Stochastic-Methods-in-Scientific-Computing-From-Foundations-to-Advanced-Techniques/DElia-Langfeld-Lucini/p/book/9781498796330) for the official material from the publisher), *Stochastic Methods in Advanced Computing - From Foundations to Advanced Techniques* provides a fresh approach to computational probability and stochastic modelling, covering the basics of the subject with applications to topics in finance, physics and biosciences, and more specialised discussions on Statistical Mechanics, Monte Carlo Methods and Lattice Field Theory. In particular, the latter is treated using a Statostical Mechanics perspective, and does not require knowledge of Quantum Field Theory. The last chapter provides an overview of recent advances at the interface between Machine Learning and Statistical Mechanics. The book has three intended audiences:
+Edited by the Taylor & Francis Group (see [here](https://www.routledge.com/Stochastic-Methods-in-Scientific-Computing-From-Foundations-to-Advanced-Techniques/DElia-Langfeld-Lucini/p/book/9781498796330) for the official material from the publisher), *Stochastic Methods in Advanced Computing - From Foundations to Advanced Techniques*, or, in short, SMSC, provides a fresh approach to computational probability and stochastic modelling, covering the basics of the subject with applications to topics in finance, physics and biosciences, and more specialised discussions on Statistical Mechanics, Monte Carlo Methods and Lattice Field Theory. In particular, the latter is treated using a Statostical Mechanics perspective, and does not require knowledge of Quantum Field Theory. The last chapter provides an overview of recent advances at the interface between Machine Learning and Statistical Mechanics. The book has three intended audiences:
 - An undergraduate or non-specialistic audience looking for an introduction to computational probability and stochastic modelling;
 - A postgraduate or more specialised audience seeking to deepen their knowledge of the subject;
 - An expert audience aiming to broaden their perspective on the most advanced material.
+
 The book is self-contained. Excercises are provided to stimulate the reader to reflect on the learned material. 
 
 <br>
