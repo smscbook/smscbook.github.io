@@ -8,12 +8,13 @@ subtitle: From Foundations to Advanced Techniques
 ---
 
 ![alt text](figures/smscbookcover.jpg)
-
+      
 - #### [The book](#Thebook)
 - #### [Purpose of this site](#Purpose)
-- #### [Table of Contents](#TOC)
-- #### [Exercises](#EXERCISE)
-- #### [Report an issue](#ISSUES)
+- #### [Table of contents](#TOC)
+- #### [Supplementary material](#EXERCISE)
+- #### [Citing the book](#CITATION)
+- #### [Sharing feedback](#ISSUES)
 
 <br>
 ## **The book** {#Thebook}
@@ -40,6 +41,23 @@ The table of contents of SMSC is as follows:
 7. **Current challenges in Monte-Carlo Simulations.** 7.1. Sign and overlap problems. 7.2. Introduction to overlap problems. 7.3. Estimating probability density functions.
 8. **Data Analytics and Statistical Systems.** 8.1. Model regression - L2 norm. 8.2. Gaussian Process. 8.3. Machine learning with graphs. 8.4. Emulation of statistical systems with Machine Learning. 8.5. Categorisation in statistical physics: Naive Bayes. 8.6. Machine learning classification of phase transitions.
 
-## **Exercises** {#EXERCISE}
+<br>
+## **Supplementary material** {#EXERCISE}
 
-## **Report an issue** {#ISSUES}
+<br>
+## **Citing the book** {#CITATION}
+If you need to refer to the SMSC book in your own work, for LaTeX, please use the BibTeX entry
+
+<br>
+@book{smscbook,<br>
+&nbsp;&nbsp;&nbsp; title={Stochastic Methods in Scientific Computing: From Foundations to Advanced Techniques},<br>
+&nbsp;&nbsp;&nbsp;	author={D'Elia, Massimo and Langfeld, Kurt and Lucini, Biagio},<br>
+&nbsp;&nbsp;&nbsp;  	year={2024},<br>
+&nbsp;&nbsp;&nbsp;  	ISBN={9781498796330},<br>
+&nbsp;&nbsp;&nbsp;  	publisher={CRC Press},<br>
+&nbsp;&nbsp;&nbsp;	URL={https://smscbook.github.io},<br>
+}
+
+<br>
+## **Sharing feedback** {#ISSUES}
+We would be very grateful if you report any issues you find and share any feedback you would like to share with us using the relevant [github issue tracker](https://github.com/smscbook/smscbook/issues). 

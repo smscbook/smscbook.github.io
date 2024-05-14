@@ -8,7 +8,9 @@ layout: default
 
   <header class="post-header">
   <h1 class="post-title">{{ page.title | escape }}</h1>
+  {%- if site.rss -%} Subscribe via <a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg> <span>{{ site.rss | escape }}</span></a>{%- endif -%}
   </header>
+  <br>
   
   <ul class="post-list">
     {%- for post in site.posts -%}
@@ -27,7 +29,6 @@ layout: default
     {%- endfor -%}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
 </div>

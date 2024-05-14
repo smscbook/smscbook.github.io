@@ -23,11 +23,12 @@ subtitle: From Foundations to Advanced Techniques
 list_title: News
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Stochastic Method in Scientific Computing Book
+   A book providing a fresh modern approach to computational probability and stochastic modelling, from elementary concepts to current research topics. 	 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: smscbook
+#twitter_username: smscbook
 github_username:  smscbook
+rss: RSS feed
 
 # Build settings
 theme: minima
