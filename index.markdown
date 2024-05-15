@@ -43,12 +43,12 @@ The table of contents of SMSC is as follows:
 
 <br>
 ## **Supplementary material** {#EXERCISE}
+Solutions for selected exercises and Python code for some of the examples provided in the book can be found on [GitHub](https://github.com/smscbook/smscbook), both in pdf and in jupyter notebook (ipynb) format. 
 
 <br>
 ## **Citing the book** {#CITATION}
 If you need to refer to the SMSC book in your own work, for LaTeX, please use the BibTeX entry
 
-<br>
 @book{smscbook,<br>
 &nbsp;&nbsp;&nbsp; title={Stochastic Methods in Scientific Computing: From Foundations to Advanced Techniques},<br>
 &nbsp;&nbsp;&nbsp;	author={D'Elia, Massimo and Langfeld, Kurt and Lucini, Biagio},<br>
@@ -60,4 +60,4 @@ If you need to refer to the SMSC book in your own work, for LaTeX, please use th
 
 <br>
 ## **Sharing feedback** {#ISSUES}
-We would be very grateful if you report any issues you find and share any feedback you would like to share with us using the relevant [github issue tracker](https://github.com/smscbook/smscbook/issues). 
+We encourage feedback from readers and appreciate contributions and support to improve the content of the book. We would be very grateful if you could report any issues you find and share any feedback you would like to share with us using the relevant [github issue tracker](https://github.com/smscbook/smscbook/issues). 
