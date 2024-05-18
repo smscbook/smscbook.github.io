@@ -6,8 +6,9 @@ layout: home
 atitle: Stochastic Methods in Scientific Computing
 subtitle: From Foundations to Advanced Techniques
 ---
+<br>
 
-![alt text](figures/smscbookcover.jpg)
+<img align="right" src="figures/smscbookcover.jpg" height="300">
       
 - #### [The book](#Thebook)
 - #### [Purpose of this site](#Purpose)
@@ -16,6 +17,8 @@ subtitle: From Foundations to Advanced Techniques
 - #### [Citing the book](#CITATION)
 - #### [Sharing feedback](#ISSUES)
 
+<br>
+<br>
 <br>
 ## **The book** {#Thebook}
 Edited by the Taylor & Francis Group (see [here](https://www.routledge.com/Stochastic-Methods-in-Scientific-Computing-From-Foundations-to-Advanced-Techniques/DElia-Langfeld-Lucini/p/book/9781498796330) for the official material from the publisher), *Stochastic Methods in Advanced Computing - From Foundations to Advanced Techniques*, or, in short, SMSC, provides a fresh approach to computational probability and stochastic modelling, covering the basics of the subject with applications to topics in finance, physics and biosciences, and more specialised discussions on Statistical Mechanics, Monte Carlo Methods and Lattice Field Theory. In particular, the latter is treated using a Statostical Mechanics perspective, and does not require knowledge of Quantum Field Theory. The last chapter provides an overview of recent advances at the interface between Machine Learning and Statistical Mechanics. The book has three intended audiences:
